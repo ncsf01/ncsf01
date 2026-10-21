@@ -14,7 +14,7 @@ I'm a Software Development student at Fatec, with a background in Game Design an
 
 ### Things I'm into
 
-I love Linux and learning how computers work under the hood, especially through the terminal. I'm also a big fan of tabletop RPGs, mostly in the 4D style: getting into character and staying there.
+I love Linux and learning how computers work under the hood, especially through the terminal. I'm also a big fan of 4D style Tabletop RPGs.
 
 ### Tech I've used
 
